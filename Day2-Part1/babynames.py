@@ -50,7 +50,6 @@ def extract_names(filename):
   	names.append(str(item[1]) + " " + str(item[0]))
   	names.append(str(item[2]) + " " + str(item[0]))
   names = sorted(names)
-  # names = year.group(1) + names
   return names
 
 
