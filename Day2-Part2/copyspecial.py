@@ -10,7 +10,6 @@ import sys
 import re
 import os
 import shutil
-import subprocess
 
 """Copy Special exercise
 """
